@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
