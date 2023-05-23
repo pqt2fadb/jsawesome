@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
