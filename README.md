@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Updating a typo on paddlepaddle.md (#9108)
