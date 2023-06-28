@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
