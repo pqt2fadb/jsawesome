@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
