@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+OpenVino 2024.0.0 (#8726)
