@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Tracker: clean up GMC (#8003)
