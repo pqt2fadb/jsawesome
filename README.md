@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Feature: Create HUB Models from CLI or Python Script (#7316)
