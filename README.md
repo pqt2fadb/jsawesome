@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
