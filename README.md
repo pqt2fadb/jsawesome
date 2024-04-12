@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
