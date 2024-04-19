@@ -1,1 +1,1 @@
-add yolov10
+Update pyproject.toml and Docs (#7274)
