@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
