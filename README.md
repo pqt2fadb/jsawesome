@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
