@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
