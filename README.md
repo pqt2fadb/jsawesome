@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
