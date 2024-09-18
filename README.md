@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Fix PNNX ubuntu -> linux bug (#7050)
