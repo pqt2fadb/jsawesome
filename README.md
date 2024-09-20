@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
